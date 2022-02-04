@@ -11,7 +11,7 @@
   "license": "GPL-2.0-only",
   "dependencies": {
     "@log4js-node/log4js-api": "^1.0.2",
-    "axios": "^0.24.0",
+    "axios": "^0.25.0",
     "data-type-utils": "^1.4.2",
     "http-status": "^1.5.0"
   }
